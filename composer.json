@@ -1,0 +1,19 @@
+{
+    "name": "yandricr/emailcheck-fts",
+    "description": "Check if the entered email exists",
+    "license": "MIT",
+    "keywords": ["email", "mail", "emailcheck", "mailcheck", "email check", "mail check", "check", "verify"],
+    "readme": "README.md",
+    "autoload": {
+        "psr-4": {
+            "EmailCheck\\Email\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yandricr",
+            "email": "yandribret@gmail.com"
+        }
+    ],
+    "require": {}
+}
